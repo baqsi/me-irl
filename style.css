@@ -1,0 +1,32 @@
+body{
+  background-color: rgb(29, 122, 65);
+  
+}
+.baqsi1{
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  top: 51vh;
+  left: 79vh;
+}
+.baqsi2{
+  position: relative;
+  top: 40vh;
+  left: 94vh;
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.baqsi3{
+  position: relative;
+ bottom: 15vh;
+ left: 89vh;
+  background-color: brown;
+  width: 50px;
+  height: 500px;
+  border-radius: 5%;
+  
+}
